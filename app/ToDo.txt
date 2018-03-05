@@ -1,0 +1,55 @@
+## Liste des block ##
+
+	- HOME
+	- CONTACT
+	- EXPERIENCE/EDUCATION
+	- ABOUT ME
+	- HOBBIES & INERESTS
+	- SKILLS
+
+
+
+### HOME ###
+
+	- nom, prénom
+	- photo
+	- télphone
+	- mail 
+	- réseau sociaux
+	- liens pour télécharger le cv en format pdf
+
+### ABOUT ME ###
+
+	- nom, prénom
+	- photo
+	- téléphone
+	- mail
+	- âge
+	- infos complémentaires
+	- réseaux sociaux
+
+### CONTACT ###
+	
+	- formulaire de contact [nom, mail, message]
+	- réseaux sociaux
+	- mail
+
+### EXPERIENCE/EDUCATION ###
+
+	- historique des emploies
+	- historique des cours 
+	- comme ici : 	https://www.wix.com/website-template/view/html/1885/?siteId=dc2a3605-d782-456d-b46a-					9c1f726975bd&metaSiteId=65c9126c-4af6-4899-b621-554d1fad7a0c&originUrl=https%3A%2F					%2Ffr.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fportfolio-cv%2Fresumes-cvs
+
+### HOBBIES&INTERESTS ###
+
+	- afficher sous forme d'icônes.
+
+### SKILLS (compétences) ###
+
+	- définir sous quelles formes afficher les compétences.
+
+
+Exemples :
+
+   - https://w3layouts.com/preview/?l=/classy-resume-a-personal-category-bootstrap-responsive-website-template/
+   - https://w3layouts.com/preview/?l=/designer-personal-category-bootstrap-responsive-web-template/
