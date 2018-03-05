@@ -1,0 +1,19 @@
+/* micro reset */
+* {
+	box-sizing: border-box;
+}
+html, body, ul {
+	padding: 0; margin: 0;
+}
+
+/* Quelques styles de base */
+body {
+	font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+	line-height: 1.75;
+	color: black;
+	background: #FFF;
+}
+
+	.main_block {
+		
+	}

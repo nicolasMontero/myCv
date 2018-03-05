@@ -21,3 +21,5 @@ Running `grunt test` will run the unit tests with karma.
 ## Dans le répertoire de travail :
 #### yo angular
 
+https://www.creativejuiz.fr/blog/tutoriels/creer-menu-sticky-avec-javascript-css
+

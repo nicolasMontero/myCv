@@ -3,21 +3,26 @@
   <head>
     <meta charset="utf-8">
     <title></title>
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width">
-    <link rel="stylesheet" href="styles/app.css">
-    
+	  <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.7/angular.min.js" charset="utf-8"></script>
+    <link href="bootstrap4/dist/css/bootstrap.min.css" rel="stylesheet">    
+    <link rel="stylesheet" href="styles/css_index.css" />
+    <link rel="stylesheet" href="styles/css_menu.css" />
+    <link rel="stylesheet" href="styles/css_contact.css" />
   </head>
-  <body>
+  <body ng-app="myCvApp">
     
-    <section>
-      <article id="home"></article>
-      <article id="aboutMe"></article>
-      <article id="experience"></article>
-      <article id="skill"></article>
-      <article id="hobbies&interest"></article>
-      <article id="contact"></article>
+    <section ng-controller="cvController">
+
+		  <!--<menu-component></menu-component>-->
+      <!--<contact-component></contact-component>-->
+
     </section>
+	
+
+    <script src="scripts/controllers/cv-controller.js" charset="utf-8"></script>     
+    <script src="scripts/components/menu-component.js" charset="utf-8"></script>
+    <script src="scripts/components/contact-component.js" charset="utf-8"></script>
+    <script src="scripts/app.js" charset="utf-8"></script>
 
   </body>
 </html>
