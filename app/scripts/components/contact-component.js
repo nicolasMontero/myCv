@@ -9,7 +9,5 @@ const ContactComponent = {
     bindings: {
       
     },
-    template: ` 
-		
-	`
+    template: ` <div>coucou</div>	`
 }

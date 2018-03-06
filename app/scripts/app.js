@@ -1,4 +1,3 @@
 angular.module('myCvApp', [])
 .controller("cvController", CvController)
-.component("menuComponent", MenuComponent)
-.component("contactComponent", ContactComponent);
+.component("menuComponent", MenuComponent);

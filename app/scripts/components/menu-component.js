@@ -11,7 +11,7 @@ const MenuComponent = {
       
     },
     template: `
-        <div class="nav-inner">
+        <div class="nav-inner col-lg-4">
             <nav>
                 <ul>
                     <li><a href="#index">HOME</a></li>

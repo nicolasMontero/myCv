@@ -11,13 +11,17 @@
   </head>
   <body ng-app="myCvApp">
     
-    <section ng-controller="cvController">
+    <!--
+    	# Bloc contenant l'ensemble du site.
+    -->
+    <div id="block_principal" class="container-fluid">
+    	<section ng-controller="cvController" class="row">
 
-		  <!--<menu-component></menu-component>-->
-      <!--<contact-component></contact-component>-->
+			<menu-component></menu-component>
 
-    </section>
-	
+    	</section>
+    </div>
+   
 
     <script src="scripts/controllers/cv-controller.js" charset="utf-8"></script>     
     <script src="scripts/components/menu-component.js" charset="utf-8"></script>

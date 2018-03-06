@@ -4,6 +4,7 @@
 	# Prend toute largeur du conteneur
 */
 .nav-inner {
+	border: 1px solid;
 	display: table;
 	width: 100%;
 	padding: 20px 25px; /* on ventile un peu */
