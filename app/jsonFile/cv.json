@@ -1,0 +1,15 @@
+{
+	"identitée": {
+		"nom": "Nicolas",
+		"prenom": "Montero",
+		"dateDeNaissance": "25/09/1989",
+		"email": "montero.nicolas.mn@gmail.com",
+		"telephone": "0664650468",
+		"localisation": {
+			"adresse": "26 avenue de la madone",
+			"codePostal": "69260",
+			"ville": "Lentilly"
+		},
+			
+	}
+}
